@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAEA,OACE,cAAe,CACf,WAAY,CACZ,UACF,CAEA,aACE,wBACF","file":"main.9dcda564.chunk.css","sourcesContent":["/* not empty */\n\nbutton {\n  cursor: pointer;\n  height: 40px;\n  margin: 4px;\n}\n\nbutton:hover {\n  background-color: darkgoldenrod;\n}\n"]}
